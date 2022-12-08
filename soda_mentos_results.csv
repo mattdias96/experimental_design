@@ -1,0 +1,17 @@
+﻿Temperature,Soda,Mentos,Outcome,Treatment,Replicate,Order
+Cold,Diet,5,1706,A,a,1
+Cold,Diet,5,1623,A,b,2
+Warm,Regular,5,1256,F,a,3
+Cold,Regular,5,1995,C,a,4
+Cold,Regular,2,2100,D,a,5
+Cold,Regular,5,1974,C,b,6
+Cold,Regular,2,2100,D,b,7
+Cold,Diet,2,1848,B,a,8
+Cold,Diet,2,1918,B,b,9
+Warm,Regular,5,1332,F,b,10
+Warm,Diet,5,1170,E,a,11
+Warm,Diet,2,1405,G,a,12
+Warm,Regular,2,1517,H,a,13
+Warm,Diet,5,980,E,b,14
+Warm,Diet,2,1106,G,b,15
+Warm,Regular,2,1704,H,b,16
